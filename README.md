@@ -19,7 +19,7 @@ Este repositório contém a implementação de um projeto-atividade desenvolvido
 
 ## 📌 Observações
 
-- O treinamento foi realizado com `batch_size=64`, o que resultou em aproximadamente 940 iterações por época e um tempo de execução relativamente rápido, já que utilize CPU.
+- O treinamento foi realizado com `batch_size=64`, o que resultou em aproximadamente 940 iterações por época e um tempo de execução relativamente rápido, já que utiliza CPU.
 
 ---
 
